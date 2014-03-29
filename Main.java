@@ -1,7 +1,7 @@
 public class Main {
 
 	public static void main(final String[] args) {
-		Printer.print("Hello World!");
+		Printer.print("Hurezzoooohn!");
 	}
 	
 	public static void callAFunction() {
